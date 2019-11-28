@@ -1,10 +1,10 @@
 # Implémentation TS d'une fonction closestToZero
 
-## Installation & Lancement des tests
+## Installation & lancement des tests
 
 `npm i`
 
-`npm test`
+`npm t`
 
 ## Résultat
 
