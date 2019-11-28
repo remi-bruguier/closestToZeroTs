@@ -1,3 +1,8 @@
+/**
+ * closestToZero find the closest number to 0 in a given integer array
+ * I used a for loop instead of a sort in an attempt to reduce the algorithm complexity 
+ * @param source integer array
+ */
 export function closestToZero(arr: number[] | undefined) : number {
     
     if(!arr || !arr.length) return 0;
